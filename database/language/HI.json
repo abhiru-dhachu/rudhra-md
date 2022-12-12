@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "princerudh",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*ʏᴏᴜʀ ʙᴏᴛ ɪs ᴀʟʀᴇᴀᴅʏ ᴏɴ ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ sɪʀ*",
+          "NEW_UPDATE": "*ᴛʜᴇʀᴇ ɪs ᴀ ɴᴇᴡ ᴜᴘᴅᴀᴛᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ғᴏʀ ᴛʜᴇ ʙᴏᴛ!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*sᴜᴄᴄᴇssғᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ!*"
+      },
+      "global": {
+          "botName": " ᴍᴀᴅᴇ ʙʏ ʀᴜᴅʜʀᴀ",
+          "body": "ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ",
+          "greet2" : "sɪʀ",
+          "pic1": "https://i.imgur.com/6g0UCQL.png",
+          "pic2": "https://i.imgur.com/fovzvF2.jpeg",
+          "pic3": "https://i.imgur.com/6g0UCQL.png",
+          "pic4": "https://i.imgur.com/fovzvF2.jpeg",
+          "pic5": "https://i.imgur.com/6g0UCQL.png",
+          "pic6": "https://i.imgur.com/fovzvF2.jpeg",
+          "pic7": "https://i.imgur.com/6g0UCQL.png",
+           "greet" : "sɪʀ",
+         "dotbody" : "I'm Alive.",
+          "promote": "ᴀᴅᴍɪɴ ʀᴏʟᴇ ɢɪᴠᴇɴ ᴛᴏ ᴍʏ ᴅᴀʀʟɪɴɢ",
+          "pmallow": "*ʜɪ,ᴛʜɪs ɪs ʀᴜᴅʜʀᴀ*\n*ᴀɴ ᴀssɪsᴛᴀɴᴛ ᴏғ ᴍʏ ᴍᴀsᴛᴇʀ.*\nᴍʏ ᴍᴀsᴛᴇʀ ɪs ʙᴜsʏ ʀɪɢʜᴛ ɴᴏᴡ.\nᴋɪɴᴅʟʏ ʟᴇᴀᴠᴇ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ.\n\n_ɪ ᴡɪʟʟ ɪɴғᴏʀᴍ ʜɪᴍ ᴀʙᴏᴜᴛ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ ᴀsᴀᴘ......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ ᴍᴀᴅᴇ ʙʏ ʀᴜᴅʜʀᴀ_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by Secktor*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *ᴍᴀᴅᴇ ʙʏ ʀᴜᴅʜʀᴀ", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Secktor_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Sir*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Secktor*",
+          "mention": " Please mention any user Sir",
+          "title": "ᴇɴɢʟɪsʜ",
+          "footer": "ᴇɴɢʟɪsʜ",
+          "by": "ᴍᴀᴅᴇ ʙʏ ʀᴜᴅʜʀᴀ",
+          "chat_desc": " *ᴏᴘᴛɪᴏɴs ᴀᴠɪʟᴀʙʟᴇ* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "ᴅᴏɴᴇ ✓",
+          "dot": "ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ *ʜᴇʟᴘ?*",
+          "couple_male": "*ɪ ᴅᴏɴᴛ ᴡᴀɴᴛ ᴛᴏ ᴅɪᴇ ᴀʟᴏɴᴇ,ɪ ᴡᴀɴᴛ ᴀ ғᴇᴍᴀʟᴇ ʏᴀᴀʀ*",
+          "couple_female": "*ɪ ᴅᴏɴᴛ ᴡᴀɴᴛ ᴛᴏ ᴅɪᴇ ᴀʟᴏɴᴇ,ɪ ᴡᴀɴᴛ ᴀ ᴍᴀʟᴇ ʏᴀᴀʀ*",
+          "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ⚠️!",
+          "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ sɪʀ.❗",
+          "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ  ⚠️",
+          "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘs ❗",
+          "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴛʜᴇ ᴍʏ ᴏᴡɴᴇʀ  ⚠️",
+          "bot": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴛʜᴇ ʙᴏᴛ ɴᴜᴍʙᴇʀ ⚠️",
+          "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ✅" 
+      },
+      "error": {
+          "text": "*ᴜʜʜ,ɢᴏᴛ ᴀɴ ᴇʀʀᴏʀ*"
+      }
+  }
+}
