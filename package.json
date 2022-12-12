@@ -51,7 +51,7 @@
                        "@shineiichijo/marika": "^2.0.3",           
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
-                       "secktor-pack": "latest",
+                       "rudhra-pack": "latest",
                        "ytdl-rudhra": "latest",
                        "pastebin-js": "latest",
                        "wa-sticker-formatter": "^4.3.2"
