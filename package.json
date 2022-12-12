@@ -1,6 +1,6 @@
 {
                "name": "rudhra-md",
-               "version": "0.0.8",
+               "version": "0.0.9",
                "description": "Multi device whatsapp bot by princerudh.",
                "main": "lib/client.js",
                "type": "commonjs",
@@ -51,7 +51,7 @@
                        "@shineiichijo/marika": "^2.0.3",           
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
-                       "rudhra-pack": "latest",
+                       "secktor-pack": "latest",
                        "ytdl-rudhra": "latest",
                        "pastebin-js": "latest",
                        "wa-sticker-formatter": "^4.3.2"
